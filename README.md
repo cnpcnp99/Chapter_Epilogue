@@ -9,5 +9,7 @@
 ```npx react-native run-ios(or run-android)```
 
 ### 3. mongoDB 서버 연결
-```cd server
-npm run server```
+```
+cd server
+npm run server
+```
