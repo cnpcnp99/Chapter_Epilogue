@@ -12,7 +12,7 @@
 ### 3. mongoDB 서버 연결(2번 실행중에 해도 상관 없음)
 ```
 cd server
-npm run servers
+npm run server
 ```
 > Server is on: port 3000; MongoDB is connected...
 > 라고 뜨면 성공한 거다.
